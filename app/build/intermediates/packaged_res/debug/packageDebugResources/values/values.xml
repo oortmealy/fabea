@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Fabea</string>
+    <string name="gcm_defaultSenderId" translatable="false">46951207655</string>
+    <string name="google_api_key" translatable="false">AIzaSyCGPo34i1o699tEhkuIV8Yug7zybuhc08k</string>
+    <string name="google_app_id" translatable="false">1:46951207655:android:7758f8e459cc47d7c18842</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCGPo34i1o699tEhkuIV8Yug7zybuhc08k</string>
+    <string name="google_storage_bucket" translatable="false">fabea-f579a.firebasestorage.app</string>
+    <string name="project_id" translatable="false">fabea-f579a</string>
+    <style name="Base.Theme.Fabea" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Fabea" parent="Base.Theme.Fabea"/>
+</resources>
